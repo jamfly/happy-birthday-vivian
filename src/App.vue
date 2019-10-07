@@ -19,7 +19,8 @@
           <div>Happy Birthday</div>
         </div>
         <div class="flip-card-back">
-          <img src="4.jpg" style="display: block;  width: 250px; height: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+          <img src="5.png" style="display: block; width: 250px; height: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" />
+          <img src="4.jpg" style="display: block; width: 250px; height: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" />
         </div>
       </div>
     </div>
