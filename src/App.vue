@@ -3,11 +3,12 @@
     <div class="card">
       <div class="card-inner">
         <div class="card-content">
-          <div style="font-size: 1.5rem; font-weight: 500">Hi, 韋神</div>
+          <div style="font-size: 1.5rem; font-weight: 500">Hi, 猥神</div>
           <p style="margin-top: 32px; padding-left: 16px; line-height: 1.5rem;">
-            很高興你又生日了，看著你一天一天的成長茁壯我真的倍感欣慰，看到你交到了女朋友讓我非常感動，韋神也長大了啊，我心中這樣感嘆道。看到這裡你一定跟我有一樣的想法吧，就是我到底在供三小ㄏㄏㄏ，其實我只是想跟你說生日快樂，很高興能有你這個朋友，其實我早就把你當做摯友了哈哈哈～祝你事事順心、生日快樂！
+            臭叛徒，生日快樂。說好要一起待在臭宅陣線聯盟的呢？結果早早就脫魯，臭叛徒。雖然老早就知道你是 hacker1007，但是10/7來得太突然，突然到我來不及找一個假的女朋友去搞你，所以還是生日快樂好ㄌ
           </p>
-          <div style="text-align: right;">DevilTea</div>
+          <br>
+          <div style="text-align: right">不要臉 fork 威任專案的 Freddy</div>
         </div>
       </div>
     </div>
@@ -18,7 +19,7 @@
           <div>Happy Birthday</div>
         </div>
         <div class="flip-card-back">
-          <img src="0.jpg" style="display: block;  width: 250px; height: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+          <img src="4.jpg" style="display: block;  width: 250px; height: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
         </div>
       </div>
     </div>
@@ -69,7 +70,7 @@ export default {
       .flip-card-back,
       .card-content {
         position: absolute;
-        background-color: rgb(255, 154, 169);
+        background-color: rgb(34, 139, 34);
         right: 0;
         width: 50%;
         height: 100%;
