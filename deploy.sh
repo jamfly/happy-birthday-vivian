@@ -10,6 +10,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/DevilTea/happy-birthday-yaoandy.git master:gh-pages
+git push -f https://github.com/jamfly/happy-birthday-yaoandy.git master:gh-pages
 
 cd -
