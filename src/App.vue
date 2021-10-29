@@ -3,12 +3,13 @@
     <div class="card">
       <div class="card-inner">
         <div class="card-content">
-          <div style="font-size: 1.5rem; font-weight: 500">Hi, 猥神</div>
+          <div style="font-size: 1.5rem; font-weight: 500">Hi, 佳軒馬麻</div>
           <p style="margin-top: 32px; padding-left: 16px; line-height: 1.5rem;">
-            臭叛徒，生日快樂。說好要一起待在臭宅陣線聯盟的呢？結果早早就脫魯，臭叛徒。雖然老早就知道你是 hacker1007，但是10/7來得太突然，突然到我來不及找一個假的女朋友去搞你，所以還是生日快樂好ㄌ
+            謝謝阿姨每年都準備超級好吃的烤肉，還有好玩的活動。希望阿姨可以天天都開心。
+            雖然佳軒常常講一些怪話，但是希望妳們可以維持像現在一樣的好感情，繼續快快樂樂地玩下去。
           </p>
           <br>
-          <div style="text-align: right">不要臉 fork 威任專案的 Freddy</div>
+          <div style="text-align: right">嘻嘻 鄭耀飛 石頭 鄭博元</div>
         </div>
       </div>
     </div>
