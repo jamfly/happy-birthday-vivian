@@ -10,6 +10,6 @@ module.exports = {
     // public: 'https://a9bb53d0.ngrok.io'
   },
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/happy-birthday-yaoandy/'
+    ? '/happy-birthday-vivian/'
     : '/'
 }
