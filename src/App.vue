@@ -3,13 +3,13 @@
     <div class="card">
       <div class="card-inner">
         <div class="card-content">
-          <div style="font-size: 1.5rem; font-weight: 500">Hi, 佳軒馬麻</div>
+          <div style="font-size: 1.5rem; font-weight: 500">Hi, <s>小妞 </s>石頭媽媽</div>
           <p style="margin-top: 32px; padding-left: 16px; line-height: 1.5rem;">
-            謝謝阿姨每年都準備超級好吃的烤肉，還有好玩的活動。希望阿姨可以天天都開心。
-            雖然佳軒常常講一些怪話，但是希望妳們可以維持像現在一樣的好感情，繼續快快樂樂地玩下去。
+            謝謝阿姨常常都給我準備好料的，還用餅乾幫我食補。希望阿姨可以天天都開心。
+            雖然石頭常常很任性，但是希望妳們可以維持像現在一樣的好感情，繼續快快樂樂地玩下去。
           </p>
           <br>
-          <div style="text-align: right">嘻嘻 鄭耀飛 石頭 鄭博元</div>
+          <div style="text-align: right">嘻嘻 鄭耀飛</div>
         </div>
       </div>
     </div>
@@ -20,7 +20,7 @@
           <div>Happy Birthday</div>
         </div>
         <div class="flip-card-back">
-          <img src="5.png" style="display: block; width: 250px; height: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" />
+          <img src="5.jpg" style="display: block; width: 250px; height: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" />
           <img src="4.jpg" style="display: block; width: 250px; height: 50%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" />
         </div>
       </div>
